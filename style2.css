@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block {
+    height: 100px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.container1 {
+    background-color: darkred;
+}
+
+.container2 {
+    background-color: yellowgreen;
+}
+
+.container3 {
+    background-color: blueviolet;
+}
+
+.container4 {
+    background-color: deeppink;
+}
+
+.container5 {
+    background-color: aquamarine;
+}
+
+.container6 {
+    background-color: black;
+}
